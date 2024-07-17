@@ -16,25 +16,26 @@
 </a>
 <br/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dixitgsathwara&theme=transparent&layout=compact&exclude_repo=Data-Science-Capstone&border_color=0C77FF" width="30%"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dixitgsathwara&theme=transparent&layout=compact&exclude_repo=Data-Science-Capstone&border_color=0C77FF" width="40%"> 
 <br/>
 <br/>
 
 ![](https://github-profile-trophy.vercel.app/?username=dixitgsathwara&theme=algolia&no-bg=true&no-frame=true)
+
 
 </div>
 
 ## 📊 LeetCode
 <div >
   
-![Leetcode Stats](https://leetcard.jacoblin.cool/Dixit1708?theme=unicorn&font=Pontano%20Sans&ext=contest)
+<img src="https://leetcard.jacoblin.cool/Dixit1708?theme=unicorn&font=Pontano%20Sans&ext=contest" width="40%"> 
 
 </div>
 
 ## 📊 Codeforces
 <div >
   
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Dixit08)
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Dixit08" width="40%"> 
 
 </div>
 <!--
