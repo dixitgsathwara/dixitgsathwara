@@ -16,7 +16,7 @@
 </a>
 <br/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dixitgsathwara&theme=transparent&layout=compact&exclude_repo=Data-Science-Capstone&border_color=0C77FF" width="40%"> 
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dixitgsathwara&theme=transparent&layout=compact&exclude_repo=Data-Science-Capstone&border_color=0C77FF" width="40%">  -->
 <br/>
 <br/>
 
